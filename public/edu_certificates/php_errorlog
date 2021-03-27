@@ -1,0 +1,39 @@
+[27-Jan-2020 11:38:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/utopiane/edu_certificates/connect/connection.php:31
+Stack trace:
+#0 /home/utopiane/edu_certificates/certificate.php(10): include_once()
+#1 {main}
+  thrown in /home/utopiane/edu_certificates/connect/connection.php on line 31
+[27-Jan-2020 13:22:17 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/utopiane/edu_certificates/index.php on line 27
+[27-Jan-2020 14:26:05 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/utopiane/edu_certificates/certificate.php on line 160
+[27-Jan-2020 14:26:32 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/utopiane/edu_certificates/certificate.php on line 160
+[27-Jan-2020 14:32:10 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Options' not found in /home/utopiane/edu_certificates/certificate.php:200
+Stack trace:
+#0 {main}
+  thrown in /home/utopiane/edu_certificates/certificate.php on line 200
+[27-Jan-2020 14:33:16 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'dompdf\Options' not found in /home/utopiane/edu_certificates/certificate.php:200
+Stack trace:
+#0 {main}
+  thrown in /home/utopiane/edu_certificates/certificate.php on line 200
+[27-Jan-2020 14:38:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined method Dompdf\Dompdf::download() in /home/utopiane/edu_certificates/certificate.php:211
+Stack trace:
+#0 {main}
+  thrown in /home/utopiane/edu_certificates/certificate.php on line 211
+[27-Jan-2020 14:38:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined method Dompdf\Dompdf::download() in /home/utopiane/edu_certificates/certificate.php:211
+Stack trace:
+#0 {main}
+  thrown in /home/utopiane/edu_certificates/certificate.php on line 211
+[27-Jan-2020 14:54:21 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/utopiane/edu_certificates/connect/connection.php:30
+Stack trace:
+#0 /home/utopiane/edu_certificates/certificate.php(10): include_once()
+#1 {main}
+  thrown in /home/utopiane/edu_certificates/connect/connection.php on line 30
+[27-Jan-2020 14:58:11 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/utopiane/edu_certificates/certificate.php on line 213
+[27-Jan-2020 15:37:02 CST6CDT] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/utopiane/edu_certificates/certificate.php on line 154
+[27-Jan-2020 15:37:40 CST6CDT] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/utopiane/edu_certificates/certificate.php on line 154
+[28-Feb-2020 00:08:29 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/utopiane/edu_certificates/certificate-download.php on line 135
+[29-Feb-2020 13:41:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/utopiane/edu_certificates/connect/connection.php:17
+Stack trace:
+#0 /home/utopiane/edu_certificates/certificate.php(10): include_once()
+#1 {main}
+  thrown in /home/utopiane/edu_certificates/connect/connection.php on line 17
+[28-May-2020 01:51:41 CST6CDT] PHP Parse error:  syntax error, unexpected 'L' (T_STRING) in /home/utopiane/edu_certificates/certificate.php on line 21

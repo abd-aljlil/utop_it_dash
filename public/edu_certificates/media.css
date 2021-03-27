@@ -1,0 +1,492 @@
+/* marks css */
+	
+body,
+html {
+  height: 100%;
+  margin: 0;
+  font-family: Cabin !important;
+}
+.table td, .table th
+{padding: 0rem;!important}
+.text-up {
+	text-transform:uppercase;
+}
+.letter-spacing {
+	letter-spacing: 2px;
+}
+.text-blue {
+	color:#014260;
+	font-size: 18px;
+}
+.thead-blue {
+	background-color: #005082;
+	color: #FFF;
+	letter-spacing:2px;
+}
+.bold {
+	font-weight: bold;
+}
+
+/* certificate css */
+
+.sub-container {
+	padding-top:200px;
+	text-align:center;
+	font-family: cablin;
+	line-height: 30px;
+}
+.text-up {
+	text-transform:uppercase;
+}
+.text-blue {
+	color:#014260
+}
+.text-normal {
+	font-weight:normal
+}
+ body {
+	margin: 0;
+	font-family: Cabin !important;
+}
+	
+
+@media screen and (min-width: 1300px) {
+	
+	/* marks css */
+	
+	body, html {
+	  height: 100%;
+	  margin: 0;
+	  font-family: Cabin !important;
+	}
+	.marks {
+	  background-image: url('img/report_bg.png');
+	  height: 1200px;
+	  background-position: center;
+	  background-size: contain;
+	  background-repeat: no-repeat;
+	  position: relative;
+	  border: 1px solid #000;
+	  margin-top: 50px;
+	}
+	.bgimg {
+	  background-image: url('img/certificate-bg.png');
+	  height: 100%;
+	  background-position: center;
+	  background-size: contain;
+	  background-repeat: no-repeat;
+	  position: relative;
+	  color: blue;
+	  font-family: "Courier New", Courier, monospace;
+	  font-size: 25px;
+	}
+	span{
+	  color: grey;
+	}
+	.utop-signture {
+		margin-top: 3rem;
+	}
+    .letter-spacing {
+		letter-spacing: 2px;
+	}
+	.bold {
+		font-weight: 900;
+	}
+	hr.hr {
+		width: 50%;
+		border: 0;
+		height: 1px;
+		background: #333;
+		background-image: linear-gradient(to right, #ccc, #333, #ccc);
+	}
+	
+	/* certificate css */
+	
+	.certificate {
+		font-size: 50px;
+	}
+	.certificate2 {
+		font-size: 33px;
+	}
+	.name {
+		font-size: 35px;
+		color: #000;
+	}
+	.level,
+	.date,
+	.score {
+		font-size: 30px;
+	}
+	.signture {
+		position:static;
+		padding-top: 60px;
+		padding-right: 60px;
+		line-height:10px;	
+	}
+	.qr {
+	    margin: -100px 0 0 -25px;
+	}
+}
+
+@media (min-width: 1000px) and (max-width: 1299px) {
+	
+	/* marks css */
+
+	.marks {
+	  background-image: url('img/report_bg.png');
+	  height: 1200px;
+	  background-position: center;
+	  background-size: contain;
+	  background-repeat: no-repeat;
+	  position: relative;
+	  border: 1px solid #000;
+	  margin-top: 50px;
+	}
+	.bgimg {
+	  background-image: url('img/certificate-bg.png');
+	  height: 100%;
+	  background-position: center;
+	  background-size: contain;
+	  background-repeat: no-repeat;
+	  position: relative;
+	  color: blue;
+	  font-family: "Courier New", Courier, monospace;
+	  font-size: 25px;
+	}
+	span{
+	  color: grey;
+	}
+	.utop-signture {
+		margin-top: 0rem;
+	}
+	
+	/* certificate css */
+	
+	.certificate {
+		font-size: 35px;
+	}
+	.certificate2 {
+		font-size: 28px;
+	}
+	.name {
+		font-size: 30px;
+		color: #000;
+	}
+	.level,
+	.date,
+	.score {
+		font-size: 25px;
+	}
+    .letter-spacing {
+		letter-spacing: 2px;
+	}
+	.bold {
+		font-weight: 900;
+	}
+	hr.hr {
+		width: 50%;
+		border: 0;
+		height: 1px;
+		background: #333;
+		background-image: linear-gradient(to right, #ccc, #333, #ccc);
+	}
+	.signture {
+		position: static;
+		padding-top: 45px;
+		padding-right: 100px;
+		line-height:10px;	
+	}
+	.qr {
+	    margin: -110px 0 0 -10px;
+	}
+	.qr img {
+		width: 16%;
+	}
+}
+
+@media (min-width: 600px) and (max-width: 776px) {
+	
+	/* marks css */
+	
+	.marks {
+	  background-image: url('img/report_bg.png');
+	  height: 1200px;
+	  background-position: center;
+	  background-size: contain;
+	  background-repeat: no-repeat;
+	  position: relative;
+	  border: 1px solid #000;
+	  margin-top: 50px;
+	}
+	.bgimg {
+	  background-image: url('img/certificate-bg.png');
+	  height: 100%;
+	  background-position: center;
+	  background-size: contain;
+	  background-repeat: no-repeat;
+	  position: relative;
+	  color: blue;
+	  font-family: "Courier New", Courier, monospace;
+	  font-size: 25px;
+	}
+	.table-responsive {
+		margin-top: 265px !important;
+	}
+	.utop-signture {
+		margin-bottom: 0;
+		margin-top: -20px;
+	}
+	span {
+	  color: grey;
+	}
+	
+	/* certificate css */
+	
+	.certificate {
+		font-size: 25px;
+		margin-top: 70px;
+	}
+	.certificate2 {
+		font-size: 22px;
+	}
+	.name {
+		font-size: 24px;
+		color: #000;
+	}
+	.level,
+	.date,
+	.score {
+		font-size: 19px;
+	}
+    .signture {
+		position: static;
+		padding-top: 0px;
+		padding-right: 120px;
+		line-height:10px;
+		font-size: 12px;
+	}
+	.qr {
+	    margin: -66px 0 0 -5px;
+	}  
+	.qr img {
+		width: 12%;
+	}
+}
+
+@media (min-width: 777px) and (max-width: 999px) {
+	
+	/* marks css */
+	
+	.marks {
+	  background-image: url('img/report_bg.png');
+	  height: 1200px;
+	  background-position: center;
+	  background-size: contain;
+	  background-repeat: no-repeat;
+	  position: relative;
+	  border: 1px solid #000;
+	  margin-top: 50px;
+	}
+	.bgimg {
+	  background-image: url('img/certificate-bg.png');
+	  height: 100%;
+	  background-position: center;
+	  background-size: contain;
+	  background-repeat: no-repeat;
+	  position: relative;
+	  color: blue;
+	  font-family: "Courier New", Courier, monospace;
+	  font-size: 25px;
+	}
+	.table-responsive {
+		margin-top: 265px !important;
+	}
+	.utop-signture {
+		margin-bottom: 0;
+		margin-top: -20px;
+	}
+	span {
+	  color: grey;
+	}
+	
+	/* certificate css */
+	
+	.certificate {
+		font-size: 25px;
+		margin-top: 70px;
+	}
+	.certificate2 {
+		font-size: 22px;
+	}
+	.name {
+		font-size: 24px;
+		color: #000;
+	}
+	.level,
+	.date,
+	.score {
+		font-size: 19px;
+	}
+    .signture {
+		position: static;
+		padding-top: 0px;
+		padding-right: 120px;
+		line-height:10px;
+		font-size: 12px;
+	}
+	.qr {
+	    margin: -66px 0 0 -5px;
+	}  
+	.qr img {
+		width: 12%;
+	}
+}
+
+@media (min-width: 481px) and (max-width: 776px) {
+	
+	/* marks css */
+	body, html {
+	  height: 100%;
+	  margin: 0;
+	  font-family: Cabin !important;
+	  line-height: 1.25rem !important;
+	  font-size: 16px;
+	}
+	.marks {
+	  background-image: url('img/report_bg.png');
+	  height: 100%;
+	  background-position: center;
+	  background-size: cover;
+	  background-repeat: no-repeat;
+	  position: relative;
+	  border: 1px solid #000;
+	  margin-top: 50px;
+	}
+	.bgimg {
+	  background-image: url('img/certificate-bg.png');
+	  height: 100%;
+	  background-position: center;
+	  background-size: contain;
+	  background-repeat: no-repeat;
+	  position: relative;
+	  color: blue;
+	  font-family: "Courier New", Courier, monospace;
+	  font-size: 25px;
+	}
+	.table-responsive {
+		margin-top: 160px !important;
+	}
+	.utop-signture {
+		margin-bottom: 0;
+		margin-top: 0px;
+	}
+	span {
+	  color: grey;
+	}
+	table {
+		margin-bottom: 0 !important;
+	}
+	p {
+		margin-bottom: 0 !important;
+	}
+	
+	/* certificate css */
+	
+	.certificate {
+		font-size: 17px;
+		margin-top: 140px;
+		margin-bottom: 0;
+	}
+	.certificate2 {
+		font-size: 15px;
+		margin-bottom: 0;
+	}
+	.name {
+		font-size: 18px;
+		color: #000;
+		margin-bottom: 0;
+	}
+	.level,
+	.date,
+	.score {
+		font-size: 12px;
+		margin-bottom: 0;
+	}
+	.xs {
+		display: none;
+	}
+    .signture {
+		position: static;
+		padding-top: 0px;
+		padding-right: 120px;
+		line-height:11px;
+		font-size: 10px;
+	}
+	.qr {
+	    margin: -66px 0 0 -5px;
+	}  
+	.qr img {
+		width: 12%;
+		padding-left: 12px;
+	}
+}
+
+
+
+@media screen and (max-width: 480px) {
+	
+	/* marks css */
+	body, html {
+	  height: 100%;
+	  margin: 0;
+	  font-family: Cabin !important;
+	  line-height: 0.95rem !important;
+	}
+	.marks {
+	  background-image: url('img/report_bg.png');
+	  height: 100%;
+	  background-position: center;
+	  background-size: cover;
+	  background-repeat: no-repeat;
+	  position: relative;
+	  border: 1px solid #000;
+	  margin-top: 50px;
+	}
+	.bgimg .sub-container h1,
+	.bgimg .sub-container h2,
+	.bgimg .sub-container hr,
+	.bgimg .sub-container .signture {
+	  display: none;
+	}
+	.table-responsive {
+	   margin-top: 150px !important;
+	}
+	.utop-signture {
+		margin-bottom: 0;
+	}
+	span {
+	  color: grey;
+	}
+	table {
+		margin-bottom: 0 !important;
+	}
+	p {
+		margin-bottom: 0 !important;
+	}
+	.text-blue {
+		color:#014260;
+		font-size: 16px;
+	}
+	
+	/* certificate css */
+	
+	.qr {
+	    margin: 0 auto;
+	}  
+	.qr img {
+		width: 40%;
+	}
+	.qr:before {
+	  content: "Click on the QR Code to download your certificate";
+	}
+}

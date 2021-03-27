@@ -1,0 +1,23 @@
+/*******************************
+*Second  MODAL In FRONT OF FIRST ONE
+
+*******************************/
+.modal-ontop{
+  z-index:99999 !important;
+}
+
+/*******************************
+*Modal Slide From Right 
+
+*******************************/
+.modal1.fade1:not(.show).right .modal-dialog {
+    -webkit-transform: translate3d(25%, 0, 0) !important;
+    transform: translate3d(25%, 0, 0) !important;
+}
+/*******************************
+*Modal Align Elements To Right
+
+*******************************/
+.modal-title-right{
+  margin-left:17rem !important
+}

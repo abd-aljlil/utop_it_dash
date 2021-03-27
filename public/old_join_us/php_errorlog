@@ -1,0 +1,20 @@
+[17-Apr-2020 11:44:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/utopiane/public_html/join_us/DB/DB.php:19
+Stack trace:
+#0 /home/utopiane/public_html/join_us/index.php(43): DB->query('INSERT INTO vol...')
+#1 {main}
+  thrown in /home/utopiane/public_html/join_us/DB/DB.php on line 19
+[17-Apr-2020 12:20:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/utopiane/public_html/join_us/DB/DB.php:19
+Stack trace:
+#0 /home/utopiane/public_html/join_us/index.php(43): DB->query('INSERT INTO vol...')
+#1 {main}
+  thrown in /home/utopiane/public_html/join_us/DB/DB.php on line 19
+[18-Apr-2020 14:55:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/utopiane/public_html/join_us/DB/DB.php:19
+Stack trace:
+#0 /home/utopiane/public_html/join_us/index.php(43): DB->query('INSERT INTO vol...')
+#1 {main}
+  thrown in /home/utopiane/public_html/join_us/DB/DB.php on line 19
+[18-Apr-2020 15:26:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/utopiane/public_html/join_us/DB/DB.php:19
+Stack trace:
+#0 /home/utopiane/public_html/join_us/index.php(43): DB->query('INSERT INTO vol...')
+#1 {main}
+  thrown in /home/utopiane/public_html/join_us/DB/DB.php on line 19

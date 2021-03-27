@@ -1,0 +1,91 @@
+    .portlet.box.green>.portlet-title,
+    .portlet.green, .portlet>.portlet-body.green{
+        background-color: #aadef6;
+    }
+    .portlet.box.green>.portlet-title>.caption,
+    .portlet.box.green>.portlet-title>.caption>i
+    {
+        color: #014260;
+    }
+    .btn-next{
+        padding-right:25px !important;
+        padding-left:25px !important;
+    }
+    .timer-style{
+        font-weight:600 !important;
+        font-size:20px !important;
+    }
+    
+
+
+
+/* Mark input boxes that gets an error on validation: */
+div .invalid {
+  border:1px solid #ffdddd;
+}
+
+/* Hide all steps by default: */
+.tab {
+  display: none;
+}
+
+/* Make circles that indicate the steps of the form: */
+.step {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbbbbb;
+  border: none; 
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.5;
+}
+
+.progress-indicator {
+/*    position: fixed;*/
+    top: 30px;
+    right: 30px;
+    width: 100px;
+    height: 100px;
+	font-weight: 600;
+}
+.progress-count {
+    position: absolute;
+    top: 8px;
+    left: 2px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    line-height: 100px;
+    color: #014260;
+
+}
+.progress-container{
+    position: relative;
+    width:90px;
+    height: 90px;
+	margin-left: -15px !important;
+	margin-top: 20px;	
+}
+circle {
+    fill: rgba(255,255,255,0.9);
+}
+svg .animated-circle {
+	fill: transparent;
+	stroke-width: 40px;
+	stroke: #014260;
+	stroke-dasharray: 126;
+	stroke-dashoffset: 126;
+}
+.progress-indicator-2 {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 3px;
+	background-color: #462066;
+}
+.progress-container h6{
+	font-weight: 600;
+	color: #014260;
+	margin-bottom: -3px;
+}

@@ -1,0 +1,17 @@
+html, body{
+	font-family: 'Droid Arabic Kufi' !important ;
+}
+
+a ,a:link,a:hover,a:visited ,a:focus{
+	font-family: 'Droid Arabic Kufi'  !important ;;
+}
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 200;
+  src: url(fonts/Droid/DroidKufi-Regular.eot);
+  src: url(fonts/Droid/DroidKufi-Regular.eot?#iefix) format('embedded-opentype'),
+       url(fonts/Droid/DroidKufi-Regular.woff2) format('woff2'),
+       url(fonts/Droid/DroidKufi-Regular.woff) format('woff'),
+       url(fonts/Droid/DroidKufi-Regular.ttf) format('truetype');
+}

@@ -1,0 +1,27 @@
+.table .darkblue{
+	background-color:#014260 !important;
+	color:#fff !important;
+}
+
+.btn-add{
+	background-color:#ffe484 !important;
+	moz-transition:all 0.3s linear !important;
+	webkit-transition:all 0.3s linear !important;
+	transition:all 0.3s linear !important;
+	color:#014260 !important;
+	font-weight:600 !important;
+}
+.btn-add:hover{
+	background-color:#edc949 !important;
+}
+
+.table th[data-v-d89f00e8]:not(.line-numbers){
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+
+.table td[data-v-d89f00e8]:not(.line-numbers){
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+

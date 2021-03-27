@@ -1,0 +1,498 @@
+body {
+   background-color:#014260 !important; 
+}
+.page-header.navbar .page-logo .logo-default {
+    margin:0;
+  }
+  
+  .page-header.navbar .page-logo{
+  background-color: #aadef6;
+  }
+  
+  .page-header.navbar{
+  background-color: #014260 !important;
+  }
+  
+  .page-sidebar, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover {
+    background-color: #014260;
+  }
+
+.page-sidebar .page-sidebar-menu > li.active.open > a:hover, .page-sidebar .page-sidebar-menu > li.active > a:hover, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active.open > a:hover, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active > a:hover {
+    background: #8edbff !important;
+}
+  .page-sidebar .page-sidebar-menu .sub-menu > li.active > a, .page-sidebar .page-sidebar-menu .sub-menu > li.open > a, .page-sidebar .page-sidebar-menu .sub-menu > li:hover > a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.active > a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.open > a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li:hover > a {
+    background: #014b6d !important;
+  }
+  
+  .page-sidebar .page-sidebar-menu > li.active.open > a, .page-sidebar .page-sidebar-menu > li.active > a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active.open > a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active > a {
+    background: #023d58 !important;
+  }
+  .page-sidebar .page-sidebar-menu > li > a > i, 
+  .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a > i
+  .page-sidebar .page-sidebar-menu > li:hover > a > i
+  {
+    color: #FFF !important;
+    font-weight:600;
+  }
+  .page-sidebar .page-sidebar-menu > li:hover > a,
+  .page-sidebar .page-sidebar-menu > li.open > a
+  {
+    background: #0a5375 !important;
+  }
+  .page-sidebar .page-sidebar-menu > li > a{
+    border-top: 0 !important;
+  }
+  .page-sidebar .page-sidebar-menu>li>a,
+   .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li>a,
+   .page-sidebar .page-sidebar-menu .sub-menu>li>a,
+   .page-sidebar .page-sidebar-menu .sub-menu>li.active>a>i,
+    .page-sidebar .page-sidebar-menu .sub-menu>li.open>a>i
+   {
+    color: #FFF !important;
+    font-weight: 300 !important;
+  }
+  .page-sidebar .page-sidebar-menu li:hover>a>.arrow.open:before,
+  .page-sidebar .page-sidebar-menu li:hover>a>.arrow:before,
+  .page-sidebar .page-sidebar-menu li>a>.arrow.open:before,
+  .page-sidebar .page-sidebar-menu li>a>.arrow:before,
+  .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li:hover>a>.arrow.open:before,
+  .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li:hover>a>.arrow:before,
+  .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li>a>.arrow.open:before,
+  .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li>a>.arrow:before
+  {
+    color: #FFF !important;
+  }
+
+  .page-sidebar .page-sidebar-menu li>a>.arrow:before,
+  .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li>a>.arrow:before
+  {
+    left:5px !important;
+    right:0 !important;
+  }
+  .page-sidebar .page-sidebar-menu>li>a,
+   .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li>a
+   {
+     padding-left:30px !important;
+   }
+   .page-sidebar .page-sidebar-menu-closed>li:first-child>a{
+    padding-left:8px !important;
+   }
+   .page-sidebar .page-sidebar-menu li>a>.arrow:before,
+    .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li>a>.arrow:before
+    {
+      content: "\f105" !important;
+    }
+    .btn.green:not(.btn-outline) {
+      color: #014260 !important;
+      background-color: #aadef6 !important;
+      border-color: #aadef6 !important;
+  }
+
+
+/* start home page css */
+
+.panel {
+    text-align: center;
+}
+
+.panel .panel-heading {
+    margin: 1px auto;
+    font-size: 20px;
+    text-align: left;
+    padding: 5px 10px;
+}
+
+.panel .panel-heading h3 {
+    display: inline-block;
+}
+
+.panel .panel-heading span {
+    line-height: 60px;
+    cursor: pointer;
+}
+
+.panel .panel-body h4 {
+    margin: 15px auto;
+}
+
+.panel .voulnteer span,
+.panel .courses span {
+    display: block;
+    margin: 15px auto;
+    font-size: 20px;
+    line-height: 75px;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+}
+
+.panel .voulnteer span {
+    background-color: #AADEF6;
+}
+
+.panel .courses span {
+    background-color: #46494C;
+}
+
+.panel .voulnteer span:hover,
+.panel .courses span:hover {
+    height: 80px;
+    width: 80px;
+    margin: 10px auto;
+    line-height: 80px;
+    background-color: #3498DB;
+    transition: all 0.25s ease-in;
+}
+
+.panel .voulnteer span a,
+.panel .courses span a {
+    color: #8ac9ff;
+    font-size: 25px;
+} 
+
+.panel .voulnteer span:hover a,
+.panel .courses span:hover a {
+    color: aliceblue;
+    font-size: 22px;
+}
+
+.panel .courses .btn-group-vertical {
+    margin: 5px 15px;
+}
+
+.panel .courses .progress {
+    height: 25px;
+    margin: 30px auto;
+    background-color: #44474b;
+    border-radius: 10px !important;
+}
+
+.panel .courses .two,
+.panel .courses .three,
+.panel .courses .four,
+.panel .courses .five,
+.panel .courses .six {
+    display: none;
+}
+
+.panel .rate a {
+    position: absolute;
+    z-index: 99;
+    color: #fff;
+    font-size: 45px;
+    line-height: 35px;
+    bottom: 30%;
+    text-align: center;
+    margin: 0 auto;
+    right: 30%;
+}
+.panel .rate .progress{
+    width: 150px;
+    height: 150px !important;
+    line-height: 150px;
+    background: none;
+    margin: 0 auto;
+    box-shadow: none;
+    position: relative;
+}
+.panel .rate .progress:after{
+    content: "";
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 12px solid #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.panel .rate .progress > span{
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+}
+.panel .rate .progress .progress-left{
+    left: 0;
+}
+.panel .rate .progress .progress-bar{
+    width: 100%;
+    height: 100%;
+    background: none;
+    border-width: 12px;
+    border-style: solid;
+    position: absolute;
+    top: 0;
+}
+.panel .rate .progress .progress-left .progress-bar{
+    left: 100%;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 80px;
+    border-left: 0;
+    -webkit-transform-origin: center left;
+    transform-origin: center left;
+}
+.panel .rate .progress .progress-right{
+    right: 0;
+}
+.panel .rate .progress .progress-right .progress-bar{
+    left: -100%;
+    border-top-left-radius: 80px;
+    border-bottom-left-radius: 80px;
+    border-right: 0;
+    -webkit-transform-origin: center right;
+    transform-origin: center right;
+    animation: loading-1 1.8s linear forwards;
+}
+.panel .rate .progress .progress-value{
+    width: 90%;
+    height: 90%;
+    border-radius: 50%;
+    background: #44484b;
+    font-size: 24px;
+    color: #fff;
+    line-height: 135px;
+    text-align: center;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+.panel .rate .progress.red .progress-bar{
+    border-color: #f43535;
+}
+.panel .rate .progress.red .progress-left .progress-bar{
+    animation: loading-1 1s linear forwards 1.8s;
+}
+.panel .rate .progress.blue .progress-bar{
+    border-color: #049dff;
+}
+.panel .rate .progress.blue .progress-left .progress-bar{
+    animation: loading-2 1.5s linear forwards 1.8s;
+}
+.panel .rate .progress.yellow .progress-bar{
+    border-color: #fdba04;
+}
+.panel .rate .progress.yellow .progress-left .progress-bar{
+    animation: loading-3 1s linear forwards 1.8s;
+}
+.panel .rate .progress.pink .progress-bar{
+    border-color: #ed687c;
+}
+.panel .rate .progress.pink .progress-left .progress-bar{
+    animation: loading-4 0.4s linear forwards 1.8s;
+}
+.panel .rate .progress.green .progress-bar{
+    border-color: #1abc9c;
+}
+.panel .rate .progress.green .progress-left .progress-bar{
+    animation: loading-5 1.2s linear forwards 1.8s;
+}
+.panel .rate .progress.light .progress-bar{
+    border-color: #2dd897;
+}
+.panel .rate .progress.light .progress-left .progress-bar{
+    animation: loading-6 1s linear forwards 1.8s;
+}
+@keyframes loading-1{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+}
+@keyframes loading-2{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(140deg);
+        transform: rotate(140deg);
+    }
+}
+@keyframes loading-3{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(90deg);
+        transform: rotate(90deg);
+    }
+}
+@keyframes loading-4{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(36deg);
+        transform: rotate(36deg);
+    }
+}
+@keyframes loading-5{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+}
+@keyframes loading-6{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(126deg);
+        transform: rotate(126deg);
+    }
+}
+@media only screen and (max-width: 990px){
+    .panel .rate .progress{ margin-bottom: 20px; }
+}
+
+
+/* end home page css */
+
+
+/* start Join_Group */
+
+.our_group .panel-heading {
+    color: #17262d;
+    background-color: #b9b5b5;
+    border-color: #949494;
+}
+
+.our_group .panel-body {
+    background-color: #0142600f;
+    padding: 0;
+    margin: 0;
+}
+
+.our_group .panel-body .row {
+    margin: 40px auto;
+}
+
+.our_group .panel-body .row ~ div {
+    margin: 20px;
+}
+
+.our_group .panel-body .row .pic_gp {
+    width: 100%;
+    position: relative;
+    background-image: url(../assets/layouts/layout/img/gp1.jpg);
+		height: 221px;
+		background-size: cover;
+		background-repeat: no-repeat;
+}
+
+.our_group .panel-body .row .pic_gp:hover .desc {
+    display: block;
+}
+
+.our_group .panel-body .row .pic_gp img {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.our_group .panel-body .row .desc {
+    background-color: rgba(49, 55, 61, 0.79);
+    position: absolute;
+   
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    color: #FFF;
+    font-size: 17px;
+    padding: 15px;
+    display: none;
+    transition: all 0.5s ease-in-out;
+}
+
+.our_group .panel-body .row .desc div {
+    padding:0;
+	margin-bottom: 9px;
+}
+
+.our_group .panel-body .row .desc div i {
+    border-radius: 0;
+    padding: 12px;
+    color: aliceblue;
+    
+    font-weight: bold;
+    border: 2px solid #FFF;
+}
+
+.our_group .panel-body .row .desc button {
+    margin-top: -10px;
+    background-color: transparent;
+    
+    border-radius: 8px;
+   
+    padding: 5px 35px;
+    margin-top: 15px;
+    cursor: pointer;
+    color: #FFF;
+	border: 2px solid #FFF;
+}
+
+.our_group .panel-body .row .desc button:hover {
+    color: #FFF;
+    background-color: #014260;
+}
+
+.our_group .panel-body .row .num_gp span {
+    background-color: #138496;
+    display: block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 20px;
+    color: aliceblue;
+    margin: 5px 0;
+}
+
+.media-body, .media-left, .media-right{
+			    vertical-align: unset;
+}
+
+	.media-body.label-success{
+			    background-color:	rgba(19, 132, 150, 0.5);
+}
+
+	.media-body.label-danger{
+			   background-color:  rgba(237, 201, 73, 0.5);
+}
+.media-left, .media > .pull-left {
+
+    padding-right: 10px !important;
+
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > i,
+.page-header.navbar .top-menu .navbar-nav > li.dropdown .dropdown-toggle > i
+{
+	line-height: 20px;
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown .dropdown-toggle:hover{
+	background-color: rgba(170, 222, 246, 0.06);
+}
+
+
+.our_group .panel-body .row .num_gp p {
+    background-color: #EDC949;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0 0 20px 0;
+}
+
+
+
+/* end Join_Group */

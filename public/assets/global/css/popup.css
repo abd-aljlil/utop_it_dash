@@ -1,0 +1,16 @@
+/*******************************
+*Second  MODAL In FRONT OF FIRST ONE
+
+*******************************/
+#Insert_Exam_NamePopup{
+  z-index:99999 !important;
+}
+
+/*******************************
+*Modal Slide From Right 
+
+*******************************/
+.modal.fade:not(.show).right .modal-dialog {
+    -webkit-transform: translate3d(25%, 0, 0) !important;
+    transform: translate3d(25%, 0, 0) !important;
+}

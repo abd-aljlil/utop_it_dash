@@ -1,0 +1,36 @@
+[16-Jul-2018 07:01:31 UTC] PHP Warning:  require(/home/utopians/public_html/utopians_dashboard/../vendor/autoload.php): failed to open stream: No such file or directory in /home/utopians/public_html/utopians_dashboard/index.php on line 24
+[16-Jul-2018 07:01:31 UTC] PHP Fatal error:  require(): Failed opening required '/home/utopians/public_html/utopians_dashboard/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/utopians/public_html/utopians_dashboard/index.php on line 24
+[16-Jul-2018 07:02:07 UTC] PHP Warning:  require(/home/utopians/public_html/utopians_dashboard/../vendor/autoload.php): failed to open stream: No such file or directory in /home/utopians/public_html/utopians_dashboard/index.php on line 26
+[16-Jul-2018 07:02:07 UTC] PHP Fatal error:  require(): Failed opening required '/home/utopians/public_html/utopians_dashboard/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/utopians/public_html/utopians_dashboard/index.php on line 26
+[16-Jul-2018 07:02:39 UTC] PHP Warning:  require(/home/utopians/public_html/utopians_dashboard/vendor/autoload.php): failed to open stream: No such file or directory in /home/utopians/public_html/utopians_dashboard/index.php on line 26
+[16-Jul-2018 07:02:39 UTC] PHP Fatal error:  require(): Failed opening required '/home/utopians/public_html/utopians_dashboard/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/utopians/public_html/utopians_dashboard/index.php on line 26
+[16-Jul-2018 07:02:40 UTC] PHP Warning:  require(/home/utopians/public_html/utopians_dashboard/vendor/autoload.php): failed to open stream: No such file or directory in /home/utopians/public_html/utopians_dashboard/index.php on line 26
+[16-Jul-2018 07:02:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/utopians/public_html/utopians_dashboard/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/utopians/public_html/utopians_dashboard/index.php on line 26
+[16-Jul-2018 07:02:41 UTC] PHP Warning:  require(/home/utopians/public_html/utopians_dashboard/vendor/autoload.php): failed to open stream: No such file or directory in /home/utopians/public_html/utopians_dashboard/index.php on line 26
+[16-Jul-2018 07:02:41 UTC] PHP Fatal error:  require(): Failed opening required '/home/utopians/public_html/utopians_dashboard/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/utopians/public_html/utopians_dashboard/index.php on line 26
+[16-Jul-2018 07:02:42 UTC] PHP Warning:  require(/home/utopians/public_html/utopians_dashboard/vendor/autoload.php): failed to open stream: No such file or directory in /home/utopians/public_html/utopians_dashboard/index.php on line 26
+[16-Jul-2018 07:02:42 UTC] PHP Fatal error:  require(): Failed opening required '/home/utopians/public_html/utopians_dashboard/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/utopians/public_html/utopians_dashboard/index.php on line 26
+[16-Jul-2018 07:02:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/utopians/utopians_dashboard/vendor/symfony/http-foundation/Response.php on line 499
+[16-Jul-2018 07:02:56 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[16-Jul-2018 07:03:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/utopians/utopians_dashboard/vendor/symfony/http-foundation/Response.php on line 499
+[16-Jul-2018 07:03:51 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[16-Jul-2018 07:03:52 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/utopians/utopians_dashboard/vendor/symfony/http-foundation/Response.php on line 499
+[16-Jul-2018 07:03:52 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[16-Jul-2018 07:05:09 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/utopians/utopians_dashboard/vendor/symfony/http-foundation/Response.php on line 499
+[16-Jul-2018 07:05:09 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[16-Jul-2018 07:06:05 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/utopians/utopians_dashboard/vendor/symfony/http-foundation/Response.php on line 499
+[16-Jul-2018 07:06:05 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[16-Jul-2018 07:07:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/utopians/utopians_dashboard/vendor/symfony/http-foundation/Response.php on line 499
+[16-Jul-2018 07:07:51 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[16-Jul-2018 07:08:02 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/utopians/utopians_dashboard/vendor/symfony/http-foundation/Response.php on line 499
+[16-Jul-2018 07:08:02 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[16-Jul-2018 07:08:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/utopians/utopians_dashboard/vendor/symfony/http-foundation/Response.php on line 499
+[16-Jul-2018 07:08:03 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[16-Jul-2018 07:08:04 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/utopians/utopians_dashboard/vendor/symfony/http-foundation/Response.php on line 499
+[16-Jul-2018 07:08:04 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[16-Jul-2018 07:08:12 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/utopians/utopians_dashboard/vendor/symfony/http-foundation/Response.php on line 499
+[16-Jul-2018 07:08:12 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[16-Jul-2018 07:08:23 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/utopians/utopians_dashboard/vendor/symfony/http-foundation/Response.php on line 499
+[16-Jul-2018 07:08:23 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[16-Jul-2018 07:16:12 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/utopians/utopians_dashboard/vendor/symfony/http-foundation/Response.php on line 499
+[16-Jul-2018 07:16:12 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
